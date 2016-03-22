@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Meta data Propeties Plugin
+Type=Service
+ServiceTypes=KPropertiesDialog/Plugin
+X-KDE-Library=metadata_props
+X-KDE-Protocol=file
+#X-KDE-PluginInfo-Author=
+#X-KDE-PluginInfo-Email=
+#X-KDE-PluginInfo-Name=
+#X-KDE-PluginInfo-Version=
+#X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-License=GPL
